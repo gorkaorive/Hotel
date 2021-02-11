@@ -1,5 +1,7 @@
 package java.sql;
 
-public class Connection {
+import java.sql.Connection;
+
+public class Main {
 
 }
